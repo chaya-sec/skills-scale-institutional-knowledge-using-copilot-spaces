@@ -1,16 +1,34 @@
-# Scale institutional knowledge using Copilot Spaces
+# OctoAcme Project Management Docs
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+This repository contains the core project management guidance for OctoAcme. It provides a consistent operating model for validating initiatives, planning work, tracking delivery, managing risk, releasing changes, and learning from each cycle.
 
-Hey chaya-sec!
+OctoAcme emphasizes clear ownership, customer value, and data-informed decisions. We validate and authorize initiatives before committing resources, plan scope and delivery with measurable outcomes, execute iteratively with testing and risk tracking, release with verification and rollback readiness, and close each effort with retrospectives that capture lessons and improvements.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+## Project management lifecycle
 
-Remember, it's self-paced so feel free to take a break! ☕️
+OctoAcme follows a simple, repeatable lifecycle:
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/chaya-sec/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
+1. Initiate and validate ideas
+2. Plan scope, milestones, and dependencies
+3. Execute iteratively with testing and accountability
+4. Release with verification and communication
+5. Review outcomes and improve the process
 
----
+Across every phase, the team keeps stakeholders informed, maintains clear ownership, and focuses on delivering value while reducing risk.
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Documentation map
 
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Project Initiation Guide](docs/octoacme-project-initiation.md)
+- [Project Planning](docs/octoacme-project-planning.md)
+- [Execution & Tracking](docs/octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](docs/octoacme-risks-and-communication.md)
+- [Release & Deployment](docs/octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](docs/octoacme-retrospective-and-continuous-improvement.md)
+- [Roles & Personas](docs/octoacme-roles-and-personas.md)
+
+## How to use these docs
+
+Start with the overview to understand the operating model, then move into the lifecycle documents most relevant to your current project stage. Use the roles and risk guidance to align responsibilities and communication across the delivery team and stakeholders.
+
+This documentation is intended to help teammates onboard quickly, reduce confusion, and keep project execution consistent across the organization.
